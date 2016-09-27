@@ -1,0 +1,26 @@
+{
+  "name": "_flodash",
+  "homepage": "https://github.com/flavioespinoza/_flodash",
+  "authors": [
+    "Flavio Espinoza <flavio.espinoza@gmail.com>"
+  ],
+  "description": "Angular Module built on lodash which provides a series of functions for complex object and array manipulation.",
+  "main": "foo",
+  "moduleType": [],
+  "keywords": [
+    "Angular",
+    "lodash"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.16.2",
+    "angular": "^1.5.8"
+  }
+}
