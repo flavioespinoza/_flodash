@@ -1,7 +1,4 @@
 /**
- * Created by Flavor on 9/27/16.
- */
-/**
  * Created by Flavor (aka Flavio Espinoza) on 8/4/16.
  */
 (function (window, angular, undefined) {
