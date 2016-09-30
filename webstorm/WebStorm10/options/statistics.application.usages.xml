@@ -1,0 +1,303 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="ngFlav" values="NodeJSConfigurationType" collectionTime="1457043489479" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="NodeJSConfigurationType" collectionTime="1453943910691" />
+      <project id="private" values="JavascriptDebugType" collectionTime="1475270531563" />
+      <project id="zipline" values="JavascriptDebugType" collectionTime="1464124051800" />
+    </group>
+    <group name="vcs">
+      <project id="Apps.UI" values="Git" collectionTime="1475270680590" />
+      <project id="material" values="Git" collectionTime="1470184044576" />
+      <project id="elasticsearch-sql" values="Git" collectionTime="1472153349928" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="Git" collectionTime="1453943910690" />
+      <project id="pe-notifications" values="Git" collectionTime="1439425483577" />
+      <project id="lodash_fork" values="Git" collectionTime="1469763972658" />
+      <project id="lodash" values="Git" collectionTime="1469761805032" />
+      <project id="_flodash" values="Git" collectionTime="1475167682702" />
+      <project id="edge-css" values="Git" collectionTime="1464820597065" />
+      <project id="swim" values="Git" collectionTime="1474391280406" />
+      <project id="launchpad_2" values="Git" collectionTime="1460581379627" />
+      <project id="zip-landing" values="Git" collectionTime="1463953800321" />
+      <project id="ng-notifications" values="Git" collectionTime="1439403124718" />
+      <project id="impress.js" values="Git" collectionTime="1463438934919" />
+      <project id="elasticsearch-angular-example" values="Git" collectionTime="1466188370760" />
+      <project id="Start-Angular-Material" values="Git" collectionTime="1435097162061" />
+      <project id="shellscript.tmbundle" values="Git" collectionTime="1464111002941" />
+      <project id="tweeter" values="Git" collectionTime="1468438693431" />
+      <project id="pocsolar" values="Git" collectionTime="1457120512243" />
+      <project id="crossfilter" values="Git" collectionTime="1458587302110" />
+      <project id="PowerBI-visuals" values="Git" collectionTime="1466183120170" />
+      <project id="D33D" values="Git" collectionTime="1436302800398" />
+      <project id="spp.web" values="Git" collectionTime="1475270017639" />
+      <project id="ng-material" values="Git" collectionTime="1433193928156" />
+      <project id="sb" values="Git" collectionTime="1453511736538" />
+      <project id="css-spaces" values="Git" collectionTime="1464211150548" />
+      <project id="lp-notifications" values="Git" collectionTime="1453511741187" />
+      <project id="sandbox" values="Git" collectionTime="1432853116991" />
+      <project id="zip Landing" values="Git" collectionTime="1463677072600" />
+      <project id="private" values="Git" collectionTime="1475270531563" />
+      <project id="ngFlav" values="Git" collectionTime="1457043489479" />
+      <project id="zipline" values="Git" collectionTime="1464124051800" />
+      <project id="ng-sandbox" values="Git" collectionTime="1437079554776" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Apps.UI" values="DEFAULT" collectionTime="1475270680598" />
+      <project id="material" values="DEFAULT" collectionTime="1470184044592" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="DEFAULT" collectionTime="1453943910858" />
+      <project id="pe-notifications" values="DEFAULT" collectionTime="1439425483665" />
+      <project id="codecanyon-511142-smooth-zoom-pan-jquery-image-viewer" values="DEFAULT" collectionTime="1434480626539" />
+      <project id="lodash_fork" values="DEFAULT" collectionTime="1469763972663" />
+      <project id="site-notification" values="DEFAULT" collectionTime="1468868243865" />
+      <project id="lodash" values="DEFAULT" collectionTime="1469761805041" />
+      <project id="_flodash" values="DEFAULT" collectionTime="1475167683044" />
+      <project id="edge-css" values="DEFAULT" collectionTime="1464820597196" />
+      <project id="swim" values="DEFAULT" collectionTime="1474391280570" />
+      <project id="lp-notifications" values="DEFAULT" collectionTime="1453511741194" />
+      <project id="c3-0.4.10" values="DEFAULT" collectionTime="1459471524832" />
+      <project id="launchpad_2" values="DEFAULT" collectionTime="1460581379984" />
+      <project id="zip-landing" values="DEFAULT" collectionTime="1463953800333" />
+      <project id="ng-notifications" values="DEFAULT" collectionTime="1439403124721" />
+      <project id="impress.js" values="DEFAULT" collectionTime="1463438935069" />
+      <project id="elasticsearch-angular-example" values="DEFAULT" collectionTime="1466188370777" />
+      <project id="Start-Angular-Material" values="DEFAULT" collectionTime="1435097162201" />
+      <project id="shellscript.tmbundle" values="DEFAULT" collectionTime="1464111003016" />
+      <project id="tweeter" values="DEFAULT" collectionTime="1468438693437" />
+      <project id="pocsolar" values="DEFAULT" collectionTime="1457120512265" />
+      <project id="angular-1" values="DEFAULT" collectionTime="1434994396874" />
+      <project id="crossfilter" values="DEFAULT" collectionTime="1458587302182" />
+      <project id="PowerBI-visuals" values="DEFAULT" collectionTime="1466183120486" />
+      <project id="dcjs" values="DEFAULT" collectionTime="1469490227188" />
+      <project id="D33D" values="DEFAULT" collectionTime="1436302800404" />
+      <project id="phantom" values="DEFAULT" collectionTime="1464196721526" />
+      <project id="spp.web" values="DEFAULT" collectionTime="1475270017796" />
+      <project id="ng-material" values="DEFAULT" collectionTime="1433193928164" />
+      <project id="elasticsearch-sql" values="DEFAULT" collectionTime="1472153350048" />
+      <project id="test" values="DEFAULT" collectionTime="1464114238450" />
+      <project id="sb" values="DEFAULT" collectionTime="1453511736552" />
+      <project id="css-spaces" values="DEFAULT" collectionTime="1464211150560" />
+      <project id="stuff" values="DEFAULT" collectionTime="1453951922326" />
+      <project id="sandbox" values="DEFAULT" collectionTime="1432853117087" />
+      <project id="zip Landing" values="DEFAULT" collectionTime="1463677072620" />
+      <project id="private" values="DEFAULT" collectionTime="1475270531582" />
+      <project id="ngFlav" values="DEFAULT" collectionTime="1457043489506" />
+      <project id="html5" values="DEFAULT" collectionTime="1458595729067" />
+      <project id="zipline" values="DEFAULT" collectionTime="1464124051812" />
+      <project id="app" values="DEFAULT" collectionTime="1453935443844" />
+      <project id="ng-sandbox" values="JSX Harmony" collectionTime="1437079554780" />
+      <project id="notifications" values="DEFAULT" collectionTime="1434664887412" />
+      <project id="pe-messaging" values="DEFAULT" collectionTime="1434663184323" />
+      <project id="subway-map" values="DEFAULT" collectionTime="1467748666853" />
+      <project id="node-test" values="DEFAULT" collectionTime="1455313251798" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="node-test" values="NodeJSConfigurationType" collectionTime="1455313251790" />
+    </group>
+    <group name="JSDebugConfig">
+      <project id="private" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1475270531602" />
+      <project id="zipline" values="browser-default.preferredEngine-null.no_mappings,browser-default.preferredEngine-null.no_mappings" collectionTime="1464124051820" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="pe-notifications" values="node_modules" collectionTime="1439425483664" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="node_modules" collectionTime="1453943910858" />
+      <project id="PowerBI-visuals" values="node_modules" collectionTime="1466183120486" />
+      <project id="launchpad_2" values="node_modules" collectionTime="1460581379984" />
+      <project id="css-spaces" values="node_modules" collectionTime="1464211150560" />
+      <project id="node-test" values="Node.js Core Modules 0.12.4" collectionTime="1455313251798" />
+      <project id="ng-material" values="node_modules" collectionTime="1433193928164" />
+      <project id="edge-css" values="node_modules" collectionTime="1464820597196" />
+      <project id="ng-notifications" values="node_modules" collectionTime="1439403124721" />
+      <project id="ngFlav" values="node_modules" collectionTime="1457043489506" />
+      <project id="material" values="node_modules" collectionTime="1470184044592" />
+      <project id="Start-Angular-Material" values="node_modules" collectionTime="1435097162201" />
+      <project id="subway-map" values="node_modules" collectionTime="1467748666853" />
+      <project id="lp-notifications" values="node_modules" collectionTime="1453511741194" />
+      <project id="ng-sandbox" values="node_modules" collectionTime="1437079554780" />
+      <project id="Apps.UI" values="node_modules" collectionTime="1475270680597" />
+      <project id="spp.web" values="node_modules" collectionTime="1475270017796" />
+      <project id="sb" values="node_modules" collectionTime="1453511736552" />
+    </group>
+    <group name="file-type">
+      <project id="Apps.UI" values="TypeScript,JavaScript,htaccess,YAML,CSS,JSHint,Git file,SourceMap,JSON,JSCS,HTML,Images,UNKNOWN,PLAIN_TEXT,Npm file,XML,Less,Markdown,SCSS" collectionTime="1475270680594" />
+      <project id="material" values="Markdown,HTML,PLAIN_TEXT,SCSS,Images,JSON,JSHint,XML,YAML,CSS,UNKNOWN,JSCS,JavaScript,Git file,SourceMap,htaccess" collectionTime="1470184044590" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="JavaScript,HTML,PLAIN_TEXT,Images,JSCS,JSON,JSHint,SCSS,YAML,XML,CSS,Less,UNKNOWN,SourceMap,Markdown,TypeScript" collectionTime="1453943910713" />
+      <project id="pe-notifications" values="SourceMap,SCSS,HTML,JSON,JSHint,JavaScript,Images,YAML,PLAIN_TEXT,UNKNOWN,CSS,Markdown,XML" collectionTime="1439425483660" />
+      <project id="codecanyon-511142-smooth-zoom-pan-jquery-image-viewer" values="HTML,UNKNOWN,CSS,PLAIN_TEXT,Images,JavaScript,XML" collectionTime="1434480626539" />
+      <project id="lodash_fork" values="JavaScript,UNKNOWN,CSS,JSCS,PLAIN_TEXT,Images,JSON,XML,HTML,Git file,YAML,Markdown" collectionTime="1469763972662" />
+      <project id="site-notification" values="TypeScript,ESLint,Less,HTML,JSHint,Markdown,htaccess,CSS,Git file,JSON,SourceMap,YAML,JSCS,UNKNOWN,Images,JavaScript,PLAIN_TEXT,XML,SCSS" collectionTime="1468868243790" />
+      <project id="lodash" values="HTML,UNKNOWN,JSON,JavaScript,YAML,JSCS,XML,Images,Markdown,PLAIN_TEXT,CSS,Git file" collectionTime="1469761805038" />
+      <project id="_flodash" values="JSON,Git file,HTML,CSS,JavaScript,Images,SourceMap,XML,PLAIN_TEXT,Markdown,JSCS,YAML,UNKNOWN" collectionTime="1475167682826" />
+      <project id="edge-css" values="JSON,Git file,Markdown,SCSS,JavaScript,PLAIN_TEXT,CSS,XML,UNKNOWN" collectionTime="1464820597137" />
+      <project id="swim" values="CSS,Git file,HTML,PLAIN_TEXT,SCSS,UNKNOWN,JavaScript,SourceMap,Markdown,XML,Images" collectionTime="1474391280466" />
+      <project id="lp-notifications" values="PLAIN_TEXT,Images,SourceMap,HTML,Less,UNKNOWN,JSHint,SCSS,XML,Markdown,YAML,JSCS,CSS,JavaScript,JSON" collectionTime="1453511741193" />
+      <project id="c3-0.4.10" values="SCSS,Images,YAML,Git file,JavaScript,JSON,JSHint,UNKNOWN,CSS,CoffeeScript,Markdown,PLAIN_TEXT,XML,HTML" collectionTime="1459471524832" />
+      <project id="launchpad_2" values="Npm file,UNKNOWN,Git file,XML,HTML,Images,TypeScript,JavaScript,JSCS,Markdown,JSHint,YAML,JSON,CSS,SourceMap,PLAIN_TEXT,SCSS,Less" collectionTime="1460581379856" />
+      <project id="zip-landing" values="SourceMap,CSS,SCSS,Images,JavaScript,HTML,Git file,Native,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1463953800330" />
+      <project id="ng-notifications" values="HTML,SCSS,XML,YAML,JavaScript,Markdown,SourceMap,CSS,PLAIN_TEXT,JSON,UNKNOWN,Images,JSHint" collectionTime="1439403124720" />
+      <project id="impress.js" values="Git file,JSON,UNKNOWN,SourceMap,XML,SCSS,Markdown,JavaScript,CSS,PLAIN_TEXT,Images,HTML" collectionTime="1463438934965" />
+      <project id="elasticsearch-angular-example" values="Npm file,UNKNOWN,JavaScript,CSS,SourceMap,Markdown,XML,HTML,JSON,Less,JSHint,YAML,Git file,C++,PLAIN_TEXT" collectionTime="1466188370775" />
+      <project id="Start-Angular-Material" values="SCSS,Less,SourceMap,CSS,JavaScript,PLAIN_TEXT,XML,Markdown,HTML,JSON,UNKNOWN" collectionTime="1435097162109" />
+      <project id="shellscript.tmbundle" values="XML,PLAIN_TEXT,UNKNOWN" collectionTime="1464111003010" />
+      <project id="tweeter" values="Markdown,PLAIN_TEXT,CSS,JSON,textmate,JavaScript,HTML,Git file,UNKNOWN,XML,SourceMap" collectionTime="1468438693437" />
+      <project id="pocsolar" values="JSON,CSS,HTML,Images,XML,C#,PLAIN_TEXT,TypeScript,SourceMap,UNKNOWN,JavaScript,Git file" collectionTime="1457120512260" />
+      <project id="angular-1" values="ARCHIVE,CoffeeScript,YAML,C++,C#,JSON,PLAIN_TEXT,JSHint,UNKNOWN,JSCS,DTD,SourceMap,JavaScript,ActionScript,ESLint,TypeScript,XML,Images,Markdown,Native,ASP,XHTML,PATCH,HTML,CSS,Perl" collectionTime="1434994396869" />
+      <project id="crossfilter" values="XML,Git file,YAML,Dart,Npm file,JSON,UNKNOWN,Markdown,JavaScript,PLAIN_TEXT" collectionTime="1458587302174" />
+      <project id="PowerBI-visuals" values="CSS,PLAIN_TEXT,JSON,Git file,Images,HTML,XML,C#,Markdown,SourceMap,YAML,Less,TypeScript,UNKNOWN,JavaScript" collectionTime="1466183120330" />
+      <project id="dcjs" values="Dart,XML,PLAIN_TEXT,UNKNOWN,Git file,JSON,Markdown,SourceMap,Images,CSS,Npm file,YAML,HTML,JavaScript" collectionTime="1469490227185" />
+      <project id="D33D" values="JSON,HTML,XML,Images,SourceMap,Markdown,PLAIN_TEXT,JavaScript,CSS,SCSS,UNKNOWN" collectionTime="1436302800403" />
+      <project id="phantom" values="JavaScript,Images,PLAIN_TEXT,UNKNOWN,XML" collectionTime="1464196721522" />
+      <project id="spp.web" values="Images,JSON,Markdown,SCSS,Git file,Less,htaccess,XML,Npm file,YAML,HTML,JSHint,PLAIN_TEXT,JavaScript,SourceMap,UNKNOWN,CSS" collectionTime="1475270017691" />
+      <project id="ng-material" values="Images,JSON,JSHint,HTML,CSS,UNKNOWN,SCSS,PLAIN_TEXT,XML,YAML,JavaScript,Markdown,SourceMap" collectionTime="1433193928162" />
+      <project id="elasticsearch-sql" values="Markdown,UNKNOWN,Git file,JSON,JavaScript,PLAIN_TEXT,XML,YAML,CSS,SourceMap,Images,HTML" collectionTime="1472153349954" />
+      <project id="test" values="JSCS,Images,UNKNOWN,PLAIN_TEXT,CSS,HTML,YAML,JSHint,JSON,SCSS,Git file,XML,Markdown,JavaScript,SourceMap" collectionTime="1464114238398" />
+      <project id="sb" values="SourceMap,Markdown,XML,TypeScript,UNKNOWN,JSON,PLAIN_TEXT,CSS,SCSS,JavaScript,JSHint,Images,HTML" collectionTime="1453511736550" />
+      <project id="css-spaces" values="XML,Npm file,JSON,YAML,SCSS,JavaScript,SourceMap,PLAIN_TEXT,Markdown,JSCS,ESLint,CSS,CoffeeScript,UNKNOWN,Jade,Git file" collectionTime="1464211150557" />
+      <project id="stuff" values="UNKNOWN,JavaScript,Images,SourceMap,SCSS,XML,PLAIN_TEXT,HTML,CSS" collectionTime="1453951922325" />
+      <project id="sandbox" values="XML,HTML,JSHint,YAML,UNKNOWN,JSON,PLAIN_TEXT,Jade,JavaScript,CSS,Images" collectionTime="1432853116996" />
+      <project id="zip Landing" values="JSHint,UNKNOWN,XML,HTML,Native,JSON,CSS,SCSS,SourceMap,Markdown,Images,JavaScript,PLAIN_TEXT,Git file" collectionTime="1463677072615" />
+      <project id="private" values="JSHint,CoffeeScript,SCSS,Less,Images,CSS,XML,htaccess,SourceMap,PATCH,Dart,JavaScript,Npm file,Native,Ignore file,ESLint,C++,Handlebars/Mustache,JSHint file,Enforced Plain Text,HTML,YAML,PLAIN_TEXT,UNKNOWN,textmate,JSCS,TypeScript,SQL,Markdown,JSON,Git file" collectionTime="1475270531580" />
+      <project id="ngFlav" values="JSHint,HTML,DTD,SCSS,JSON,XML,JavaScript,Images,Npm file,Git file,YAML,Less,Markdown,JSCS,SourceMap,C++,ARCHIVE,PLAIN_TEXT,CSS,TypeScript,UNKNOWN,PATCH" collectionTime="1457043489505" />
+      <project id="html5" values="XML,JSCS,JSHint,CSS,HTML,Git file,PLAIN_TEXT,JavaScript,JSON,Markdown,Images,YAML,UNKNOWN" collectionTime="1458595729064" />
+      <project id="zipline" values="SourceMap,DTD,SQL,JavaScript,CoffeeScript,Npm file,Images,Native,XML,Git file,JSON,PLAIN_TEXT,JSCS,C#,Markdown,SCSS,CSS,JSHint,ARCHIVE,PATCH,UNKNOWN,ESLint,Docker file,HTML,YAML,C++,textmate" collectionTime="1464124051808" />
+      <project id="app" values="SCSS,SourceMap,HTML,JavaScript,UNKNOWN,XML,CSS,PLAIN_TEXT,Images" collectionTime="1453935443840" />
+      <project id="ng-sandbox" values="UNKNOWN,SCSS,JSHint,YAML,HTML,JavaScript,PLAIN_TEXT,Markdown,SourceMap,XML,JSON,Less,CSS,Images" collectionTime="1437079554779" />
+      <project id="notifications" values="PLAIN_TEXT,UNKNOWN,XML" collectionTime="1434664887411" />
+      <project id="pe-messaging" values="DTD,JavaScript,JSCS,HTML,SCSS,C++,ASP,CoffeeScript,UNKNOWN,JSHint,JSON,SourceMap,PATCH,Markdown,PLAIN_TEXT,Perl,ESLint,CSS,ARCHIVE,ActionScript,YAML,TypeScript,Images,XML,XHTML,C#" collectionTime="1434663184320" />
+      <project id="subway-map" values="XML,UNKNOWN,Npm file,JavaScript,JSON,YAML,SourceMap,JSHint,Git file,PLAIN_TEXT,HTML,Images,Markdown,Less,SCSS,JSCS,CSS,htaccess" collectionTime="1467748666767" />
+      <project id="node-test" values="CSS,UNKNOWN,XML,PLAIN_TEXT,Markdown,YAML,CoffeeScript,Jade,JSON,JavaScript,JSHint" collectionTime="1455313251795" />
+    </group>
+    <group name="module type">
+      <project id="Apps.UI" values="WEB_MODULE" collectionTime="1475270680590" />
+      <project id="material" values="WEB_MODULE" collectionTime="1470184044576" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="WEB_MODULE" collectionTime="1453943910691" />
+      <project id="pe-notifications" values="WEB_MODULE" collectionTime="1439425483577" />
+      <project id="codecanyon-511142-smooth-zoom-pan-jquery-image-viewer" values="WEB_MODULE" collectionTime="1434480626538" />
+      <project id="lodash_fork" values="WEB_MODULE" collectionTime="1469763972658" />
+      <project id="site-notification" values="WEB_MODULE" collectionTime="1468868243780" />
+      <project id="lodash" values="WEB_MODULE" collectionTime="1469761805032" />
+      <project id="_flodash" values="WEB_MODULE" collectionTime="1475167682703" />
+      <project id="edge-css" values="WEB_MODULE" collectionTime="1464820597065" />
+      <project id="swim" values="WEB_MODULE" collectionTime="1474391280410" />
+      <project id="lp-notifications" values="WEB_MODULE" collectionTime="1453511741187" />
+      <project id="c3-0.4.10" values="WEB_MODULE" collectionTime="1459471524825" />
+      <project id="launchpad_2" values="WEB_MODULE" collectionTime="1460581379627" />
+      <project id="zip-landing" values="WEB_MODULE" collectionTime="1463953800321" />
+      <project id="ng-notifications" values="WEB_MODULE" collectionTime="1439403124719" />
+      <project id="impress.js" values="WEB_MODULE" collectionTime="1463438934920" />
+      <project id="elasticsearch-angular-example" values="WEB_MODULE" collectionTime="1466188370760" />
+      <project id="Start-Angular-Material" values="WEB_MODULE" collectionTime="1435097162061" />
+      <project id="shellscript.tmbundle" values="WEB_MODULE" collectionTime="1464111002941" />
+      <project id="tweeter" values="WEB_MODULE" collectionTime="1468438693431" />
+      <project id="pocsolar" values="WEB_MODULE" collectionTime="1457120512243" />
+      <project id="angular-1" values="WEB_MODULE" collectionTime="1434994396863" />
+      <project id="crossfilter" values="WEB_MODULE" collectionTime="1458587302111" />
+      <project id="PowerBI-visuals" values="WEB_MODULE" collectionTime="1466183120171" />
+      <project id="dcjs" values="WEB_MODULE" collectionTime="1469490227181" />
+      <project id="D33D" values="WEB_MODULE" collectionTime="1436302800398" />
+      <project id="phantom" values="WEB_MODULE" collectionTime="1464196721513" />
+      <project id="spp.web" values="WEB_MODULE" collectionTime="1475270017641" />
+      <project id="ng-material" values="WEB_MODULE" collectionTime="1433193928157" />
+      <project id="elasticsearch-sql" values="WEB_MODULE" collectionTime="1472153349929" />
+      <project id="test" values="WEB_MODULE" collectionTime="1464114238382" />
+      <project id="sb" values="WEB_MODULE" collectionTime="1453511736538" />
+      <project id="css-spaces" values="WEB_MODULE" collectionTime="1464211150548" />
+      <project id="stuff" values="WEB_MODULE" collectionTime="1453951922322" />
+      <project id="sandbox" values="WEB_MODULE" collectionTime="1432853116991" />
+      <project id="zip Landing" values="WEB_MODULE" collectionTime="1463677072600" />
+      <project id="private" values="WEB_MODULE" collectionTime="1475270531563" />
+      <project id="ngFlav" values="WEB_MODULE" collectionTime="1457043489479" />
+      <project id="html5" values="WEB_MODULE" collectionTime="1458595729051" />
+      <project id="zipline" values="WEB_MODULE" collectionTime="1464124051800" />
+      <project id="app" values="WEB_MODULE" collectionTime="1453935443783" />
+      <project id="ng-sandbox" values="WEB_MODULE" collectionTime="1437079554776" />
+      <project id="notifications" values="WEB_MODULE" collectionTime="1434664887389" />
+      <project id="pe-messaging" values="WEB_MODULE" collectionTime="1434663184317" />
+      <project id="subway-map" values="WEB_MODULE" collectionTime="1467748666684" />
+      <project id="node-test" values="WEB_MODULE" collectionTime="1455313251790" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Apps.UI" values="Project,Project,Directory" collectionTime="1475270680598" />
+      <project id="material" values="Project,Directory,Project" collectionTime="1470184044592" />
+      <project id="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" values="Project,Directory,Project,Directory" collectionTime="1453943910858" />
+      <project id="pe-notifications" values="Project,Project,Directory" collectionTime="1439425483664" />
+      <project id="codecanyon-511142-smooth-zoom-pan-jquery-image-viewer" values="Project,Project" collectionTime="1434480626539" />
+      <project id="lodash_fork" values="Project,Project" collectionTime="1469763972663" />
+      <project id="site-notification" values="Project,Project" collectionTime="1468868243865" />
+      <project id="lodash" values="Project,Project" collectionTime="1469761805041" />
+      <project id="_flodash" values="Project,Project" collectionTime="1475167683044" />
+      <project id="edge-css" values="Project,Project,Directory" collectionTime="1464820597196" />
+      <project id="swim" values="Project,Project" collectionTime="1474391280570" />
+      <project id="lp-notifications" values="Directory,Project,Project" collectionTime="1453511741194" />
+      <project id="c3-0.4.10" values="Project,Project" collectionTime="1459471524832" />
+      <project id="launchpad_2" values="Directory,Project,Project" collectionTime="1460581379984" />
+      <project id="zip-landing" values="Project,Project" collectionTime="1463953800333" />
+      <project id="ng-notifications" values="Directory,Project,Project" collectionTime="1439403124721" />
+      <project id="impress.js" values="Project,Project" collectionTime="1463438935069" />
+      <project id="elasticsearch-angular-example" values="Project,Project" collectionTime="1466188370777" />
+      <project id="Start-Angular-Material" values="Project,Project,Directory" collectionTime="1435097162201" />
+      <project id="shellscript.tmbundle" values="Project,Project" collectionTime="1464111003016" />
+      <project id="tweeter" values="Project,Project" collectionTime="1468438693437" />
+      <project id="pocsolar" values="Project,Project" collectionTime="1457120512265" />
+      <project id="angular-1" values="Project,Project" collectionTime="1434994396874" />
+      <project id="crossfilter" values="Project,Project" collectionTime="1458587302182" />
+      <project id="PowerBI-visuals" values="Project,Project,Directory" collectionTime="1466183120486" />
+      <project id="dcjs" values="Project,Project" collectionTime="1469490227188" />
+      <project id="D33D" values="Project,Project" collectionTime="1436302800404" />
+      <project id="phantom" values="Project,Project" collectionTime="1464196721526" />
+      <project id="spp.web" values="Directory,Project,Project" collectionTime="1475270017796" />
+      <project id="ng-material" values="Directory,Project,Project" collectionTime="1433193928164" />
+      <project id="elasticsearch-sql" values="Project,Project" collectionTime="1472153350048" />
+      <project id="test" values="Project,Project" collectionTime="1464114238450" />
+      <project id="sb" values="Project,Directory,Project" collectionTime="1453511736552" />
+      <project id="css-spaces" values="Directory,Project,Project" collectionTime="1464211150560" />
+      <project id="stuff" values="Project,Project" collectionTime="1453951922326" />
+      <project id="sandbox" values="Project,Project" collectionTime="1432853117087" />
+      <project id="zip Landing" values="Project,Project" collectionTime="1463677072620" />
+      <project id="private" values="Project,Project" collectionTime="1475270531582" />
+      <project id="ngFlav" values="Directory,Project,Project" collectionTime="1457043489506" />
+      <project id="html5" values="Project,Project" collectionTime="1458595729067" />
+      <project id="zipline" values="Project,Project" collectionTime="1464124051812" />
+      <project id="app" values="Project,Project" collectionTime="1453935443844" />
+      <project id="ng-sandbox" values="Project,Project,Directory,Project" collectionTime="1437079554780" />
+      <project id="notifications" values="Project,Project" collectionTime="1434664887412" />
+      <project id="pe-messaging" values="Project,Project" collectionTime="1434663184323" />
+      <project id="subway-map" values="Project,Directory,Project" collectionTime="1467748666853" />
+      <project id="node-test" values="Project,Project,Project,Project" collectionTime="1455313251798" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="64" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredEngine-null.no_mappings" count="3" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredEngine-null.no_mappings" count="1" />
+      <entry feature="NewDirectoryProjectAction.AngularJS" count="7" />
+      <entry feature="NewDirectoryProjectAction.Empty Project" count="2" />
+      <entry feature="NewDirectoryProjectAction.HTML5 Boilerplate" count="1" />
+      <entry feature="NewDirectoryProjectAction.Node.js Express App" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="113" />
+      <entry feature="OpenInBrowser.Firefox" count="2" />
+      <entry feature="OpenInBrowser.Safari" count="2" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="3" />
+      <entry feature="execute.JavascriptDebugType.Run" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.CSS" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.File_Watchers" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.HTML" count="4" />
+      <entry feature="ide.settings.Ignored_Files" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="19" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="2" />
+      <entry feature="ide.settings.TextMate_Bundles" count="7" />
+      <entry feature="ideaapp.started" count="190" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

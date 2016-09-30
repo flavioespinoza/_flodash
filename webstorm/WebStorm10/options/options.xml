@@ -1,0 +1,48 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.10.0" value="15" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="4ed1b367-8ea4-45da-9b69-575f199e4f0c" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="FindSplitterProportion" value="0.29027575" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ColorChooser.RecentColors" value="255-177-196-153,,,161-120-128-255,,,104-148-255-255,,,163-194-237-255,,,255-130-0-255,,,66-165-245-118,,,255-192-203-149,,,100-149-237-139,,,0-255-0-120,,,100-149-237-122,,,255-192-203-126,,,161-120-128-146,,,145-232-66-255,,,255-146-10-255,,,215-232-66-255,,,232-192-25-255,,,174-232-67-255,,,255-106-2-255,,,122-155-169-255,,,60-60-60-255" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt.10.0" value="14e323e3b76" />
+    <property name="evlsprt2.10.0" value="14de548a036" />
+    <property name="KEYMAP" value="" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="fileTypeChangedCounter" value="71" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sass-3.4.22/bin/scss&#10;/usr/bin/sass&#10;/Users/sespinoza1/Documents/private/zipline/static/js/d3.js&#10;/Users/sespinoza1/Documents/private/zipline/static/client/bower_components/d3/d3.js&#10;/Users/sespinoza1/Documents/shellscript.tmbundle&#10;/Users/sespinoza1/Documents/zipline/zipline/reports&#10;/Users/sespinoza1/Documents/zipline/zipline/templates&#10;/Users/sespinoza1/Documents/zipline/zipline/reports/views/base.py&#10;/Users/sespinoza1/Documents/WebstormPlugins/python.tmbundle&#10;/Users/sespinoza1/Documents/Projects/ngFlavio/server&#10;/Users/sespinoza1/Documents/Projects/launchpad_2&#10;/Users/sespinoza1/Documents/spp.web&#10;/Users/sespinoza1/Documents/stuff/app" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="dir.diff.panel.divider.location" value="448" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_version" value="0.12.4" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="PLUGIN_FILTER" value="text" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop/python/lib" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+  </component>
+</application>
